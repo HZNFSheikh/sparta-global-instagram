@@ -1,0 +1,29 @@
+aside{
+  margin-top: 100px;
+  float: left;
+}
+
+
+section{
+  margin-right: 400px;
+  height: 700px;
+  width: 500px;
+  border-style: solid;
+  border-color: lightgrey;
+  float: right;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+
+hr{
+  margin-left: 90px;
+  margin-right: 90px;
+  color: lightgrey;
+}
+
+form{
+
+
+}
